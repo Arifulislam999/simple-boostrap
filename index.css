@@ -1,5 +1,17 @@
 .card-body {
     text-align: center;
     background-color: cyan;
-    color: cornflowerblue;
+    color: darkred;
+    font-weight: bolder;
+}
+
+.card-body h3 {
+    color: deeppink;
+    font-size: 35px;
+}
+
+img {
+    border-radius: 10px;
+    height: 300px;
+    width: 290px;
 }
