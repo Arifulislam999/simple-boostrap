@@ -15,3 +15,10 @@ img {
     height: 300px;
     width: 290px;
 }
+
+#pass {
+    height: 30px;
+    width: 300px;
+    border: 2px solid black;
+    padding: 5px 3px;
+}
